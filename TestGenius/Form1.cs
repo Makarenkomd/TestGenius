@@ -19,7 +19,7 @@ namespace TestGenius
         int[] answers = { 6, 9, 25, 60, 2 };
         string[] results = { "идиот", "дибил", "дурак", "норма", "талант", "гений" };
         int rightAnswer = 0;
-
+        //номер текущего вопроса
         int index = 0;
         public Form1()
         {
